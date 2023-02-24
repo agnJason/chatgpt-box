@@ -172,7 +172,7 @@
         textarea.scrollTop = textarea.scrollHeight;
 
         axios.post('https://api.openai.com/v1/completions', {
-            prompt: question, max_tokens: window.mt, model: "text-davinci-003", temperature: window.tpr,
+            prompt: question, max_tokens: window.mt, model: "text-chat-davinci-002", temperature: window.tpr,
             top_p: window.tp, frequency_penalty: window.fp, presence_penalty: window.pp
         }
 
