@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c019ccae-0ce4-485a-9508-1bb64e0405e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/axios.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/axios.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particles.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/particles.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="c019ccae-0ce4-485a-9508-1bb64e0405e1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +27,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/agnjason/Downloads/chat-gpt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677229548714</updated>
-      <workItem from="1677229551459" duration="299000" />
+      <workItem from="1677229551459" duration="624000" />
     </task>
     <servers />
   </component>
